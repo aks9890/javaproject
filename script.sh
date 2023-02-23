@@ -30,6 +30,6 @@ case $ch in
    ;;
 esac
 
-#Printing result
+#Printiing result
 echo "Result: $res"
 
