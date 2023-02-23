@@ -4,7 +4,7 @@
 
 # Taking  user input
 
-echo "Enter two numbers: "
+echo "Enter twooo numbers: "
 read a
 read b
 
